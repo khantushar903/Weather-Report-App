@@ -17,9 +17,6 @@ const App = () => {
 
   return (
     <>
-    <div>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod distinctio, reprehenderit inventore beatae harum repudiandae, amet deserunt commodi quos reiciendis dignissimos quaerat optio quae omnis, fuga quis saepe labore rem.</p>
-    </div>
     <div className="main">
       <input
         type="text"
